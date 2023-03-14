@@ -3,7 +3,6 @@ docs
 build
 config
 core
-dist
 src/examples
 src/icons
 src/router
